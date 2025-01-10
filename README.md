@@ -2,6 +2,11 @@
 
 Nxt Trendz is a fully functional ecommerce website that provides a seamless shopping experience for users. The website offers a range of products, exclusive deals for prime and non-prime users, user authentication, and cart functionality.
 
+## Live Link: 
+
+https://nxttrendz412.ccbp.tech
+
+
 ## Features
 •	User Authentication:
 Users can sign up, log in, and access their personalized dashboard with protected routes. <br/><br/>
@@ -13,10 +18,6 @@ The website offers exclusive deals for prime users, and special discounts are sh
 Users can add products to the cart, modify the quantity, and proceed to checkout. Cart details are stored persistently across various Routes. <br/><br/>
 •	Context API for State Management:
 Used Context API to manage cart details. This approach solves the problem of prop drilling, making the application more scalable and easier to maintain. <br/><br/>
-
-## Live Link: 
-
-https://nxttrendz412.ccbp.tech
 
 ## Credentials: 
 
