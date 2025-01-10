@@ -31,6 +31,7 @@
   .product-details-container {
     flex-direction: row;
     justify-content: space-between;
+    align-items: flex-start;
     margin-bottom: 48px;
   }
 }
@@ -43,8 +44,6 @@
 @media screen and (min-width: 768px) {
   .product-image {
     width: 48%;
-    max-width: 540px;
-    max-height: 576px;
   }
 }
 
