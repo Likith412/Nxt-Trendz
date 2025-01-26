@@ -1,4 +1,4 @@
-# Nxt Trndz - Ecommerce Website
+# Nxt Trendz - Ecommerce Website
 
 Nxt Trendz is a fully functional ecommerce website that provides a seamless shopping experience for users. The website offers a range of products, exclusive deals for prime and non-prime users, user authentication, and cart functionality.
 
