@@ -2,11 +2,6 @@
 
 Nxt Trendz is a fully functional ecommerce website that provides a seamless shopping experience for users. The website offers a range of products, exclusive deals for prime and non-prime users, user authentication, and cart functionality.
 
-## Live Link: 
-
-https://nxttrendz412.ccbp.tech
-
-
 ## Features
 •	User Authentication:
 Users can sign up, log in, and access their personalized dashboard with protected routes. <br/><br/>
